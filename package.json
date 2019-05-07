@@ -1,9 +1,9 @@
 {
   "name": "node-oidc-provider-examples",
-  "version": "5.0.1",
+  "version": "6.0.0-alpha.3",
   "main": "index.js",
   "engines": {
-    "node": ">=8.9.0"
+    "node": ">=12.0.0"
   },
   "license": "MIT",
   "dependencies": {
@@ -11,9 +11,9 @@
     "ejs": "^2.6.1",
     "express": "^4.16.3",
     "express-urlrewrite": "^1.2.0",
-    "ioredis": "^4.0.0",
+    "ioredis": "^4.9.3",
     "lodash": "^4.17.11",
-    "oidc-provider": "^5.0.1"
+    "oidc-provider": "^6.0.0-alpha.3"
   },
   "devDependencies": {
     "eslint": "^5.6.1",
